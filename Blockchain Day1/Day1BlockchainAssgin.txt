@@ -1,0 +1,46 @@
+Q1. What is your understanding of Blockchain?
+
+Blockchain can be described as a data structure that holds growing list of transactional records and while ensuring security, transparency, and decentralization. You can also think of it as a chain or records stored in the forms of blocks which are controlled by no single authority.
+
+Q2. What is the core problem blockchain trying to solve?
+
+The following are the problems blockchain trying to solve 
+i.Authenticity of data.
+ii.Security.
+iii.Need third party for trust.
+
+Q3. What are the few features which blockchain will give you?
+
+The following are the features given by Blockchain
+i.1.Verifiable
+ii.Unchangeable
+iii.Tamper-proof
+iv.Immutable
+
+Q4. What all things does Blockchain contain?
+
+1. Block Number
+2. Transactional Record
+3. Previous Block Key
+4. Mining Key
+
+Q5. How is the verifiability of blockchain is been attained ?
+
+As the Blockchain is based on distributed database so if someone changes the data in one block, it should be changed into other blocks. So by this technique one can verify that the data has been changed.
+
+
+
+Genesis Block /Block 1
+
+0 + new data = Fingerprint 1
+
+
+
+Block 2
+
+Fingerprint 1 + new data = Fingerprint 2
+
+
+and this chain continues.
+
+blockchain is been attained.
